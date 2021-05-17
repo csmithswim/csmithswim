@@ -1,11 +1,11 @@
 Hello! 
 
-My name is Cullen and I am presently learning software/web development!
+My name is Cullen and I am an aspiring computer scientist with a focus on software/web development/engineering.
+I am presently learning and using Python & Java and their application in full stack development.
+I previously have learned Javascript/HTML/CSS/Node/MongoDB for different projects and problem solving algorithms.
 
-I am developing command-line interface games with Java to hammer down object oriented programming principles.
+I took a break from my education due to Covid-19 and other stuff I had to attend to.
 
-I am also creating a full stack book-library web application that uses MongoDB/Node/HTML/CSS.
+Cheers!
 
-I tend to start my mornings off with an algorithm and a cup of joe!
 
-Happy coding and cheers!
