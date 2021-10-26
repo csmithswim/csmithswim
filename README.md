@@ -1,5 +1,5 @@
 Hello World! 
-I am learning Java and SQL.
+I am learning Java, SQL, Springboot and OpenShift.
 
 I previously took coursework that involved HTML, CSS, Javascript, Node, MongoDB and React. 
 
