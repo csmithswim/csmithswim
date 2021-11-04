@@ -1,5 +1,5 @@
 Hello World! 
-I am learning Java, MySQL, Springboot, Kubernetes, Docker and Openshift.
+I am learning Java, MySQL, Springboot, PostgreSQL, Kubernetes, Docker and Openshift.
 
 I previously took coursework that involved HTML, CSS, SQL, SQLite, Javascript, Node, MongoDB and React. 
 
