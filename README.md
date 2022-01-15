@@ -1,5 +1,7 @@
 Hello World! 
 
-Java programmer in Providence, Rhode Island.
+I'm a Java programmer in Providence, Rhode Island.
+
+Cheers!
 
 
